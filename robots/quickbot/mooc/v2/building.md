@@ -708,11 +708,11 @@ The green circles in the image below mark spacer location mount points.
     <br style="clear:both;" />
 
     {:.img_width_300}
-    ![](build_pics/bottom_chassis_with_ir_sensors_3.jpg)
+    ![](build_pics/bottom_chassis_with_ir_sensors_3.JPG)
     **Top**
 
     {:.img_width_300}
-    ![](build_pics/bottom_chassis_with_ir_sensors_4.jpg)
+    ![](build_pics/bottom_chassis_with_ir_sensors_4.JPG)
     **Bottom**
 
     <br style="clear:both;" />
