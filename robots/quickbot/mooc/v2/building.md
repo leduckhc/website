@@ -233,7 +233,7 @@ next_link: configuring.html
 0. Insert white wire into 1x1-pin connector housing.
 
     {:.img_width_300}
-    ![](build_pics/IR_cable_assembly_2.jpg)
+    ![](build_pics/ir_cable_assembly_2.jpg)
     **IR Cable Assembly**
 
     <br style="clear:both;" />
