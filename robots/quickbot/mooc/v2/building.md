@@ -976,7 +976,7 @@ The green circles in the image below mark the locations of the zip ties.
 0. Attach BeagleBone Black to top chassis plate with the Ethernet port sticking out to the right side of the chassis.
 
     {:.img_width_300}
-    ![](build_pics/top_chassis_with_bbb_3.jpg)
+    ![](build_pics/top_chassis_with_bbb_3.JPG)
     **Top Chassis Plate With BBB**
 
     <br style="clear:both;" />
