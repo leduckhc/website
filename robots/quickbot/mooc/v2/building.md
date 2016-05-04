@@ -266,11 +266,11 @@ next_link: configuring.html
 
 
 
-    {:.img_width_300}
-    ![](build_pics/IR_sensor_assembly_2.jpg)
-    **IR Sensor Assembly**
+  {:.img_width_300}
+  ![](build_pics/IR_sensor_assembly_2.jpg)
+  **IR Sensor Assembly**
 
-    <br style="clear:both;" />
+  <br style="clear:both;" />
 
 <!--  -->
 
@@ -295,11 +295,11 @@ next_link: configuring.html
 0. Pair green and yellow wires and insert into 1x2-pin connector housings.
 0. Pair blue and white wires and insert into 1x2-pin connector housings.
 
-    {:.img_width_300}
-    ![](build_pics/bbb_encoder_wiring_assembly_2.jpg)
-    **BBB-Encoder Wiring Assembly**
+  {:.img_width_300}
+  ![](build_pics/bbb_encoder_wiring_assembly_2.jpg)
+  **BBB-Encoder Wiring Assembly**
 
-    <br style="clear:both;" />
+  <br style="clear:both;" />
 
 <!--  -->
 
@@ -701,21 +701,21 @@ The yellow circles in the image below mark the IR sensor location mount points.
 The green circles in the image below mark spacer location mount points.
 
 
-    {:.img_width_300}
-    ![](build_pics/bottom_chassis_with_ir_sensors_2.jpg)
-    **Mount Points**
+{:.img_width_300}
+![](build_pics/bottom_chassis_with_ir_sensors_2.jpg)
+**Mount Points**
 
-    <br style="clear:both;" />
+<br style="clear:both;" />
 
-    {:.img_width_300}
-    ![](build_pics/bottom_chassis_with_ir_sensors_3.jpg)
-    **Top**
+{:.img_width_300}
+![](build_pics/bottom_chassis_with_ir_sensors_3.jpg)
+**Top**
 
-    {:.img_width_300}
-    ![](build_pics/bottom_chassis_with_ir_sensors_4.jpg)
-    **Bottom**
+{:.img_width_300}
+![](build_pics/bottom_chassis_with_ir_sensors_4.jpg)
+**Bottom**
 
-    <br style="clear:both;" />
+<br style="clear:both;" />
 
 <!--  -->
 
