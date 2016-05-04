@@ -1077,7 +1077,6 @@ The green circles in the image below mark the locations of the zip ties.
     * Black wire = H-Bridge pin 10 <-> BBB pin P8_12.
     * Blue wire = H-Bridge pin 9 <-> BBB pin P9_14.
 
-
     {:.img_width_300}
     ![](build_pics/quickbot_assembly_4.jpg)
 
@@ -1092,8 +1091,8 @@ The green circles in the image below mark the locations of the zip ties.
 0. Attach top plate assembly to bottom plate assembly using four screws.
 
     {:.img_width_300}
-    ![](quickbot_mooc_v2.jpg)
-
+    ![QuickBot Mooc v2](quickbot_mooc_v2.jpg)
+    **QuickBot MOOC v2**
     <br style="clear:both;" />
 
 <!--  -->
@@ -1126,5 +1125,3 @@ The green circles in the image below mark the locations of the zip ties.
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
